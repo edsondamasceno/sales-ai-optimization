@@ -60,8 +60,8 @@ Este projeto implementa um sistema de decisão baseado em IA que:
 ```bash
 1. Clone o repositório
 
-git clone https://github.com/seu-usuario/sales-ai.git
-cd sales-ai
+git clone https://github.com/seu-usuario/sales-ai-optimization.git
+cd sales-ai-optimization
 
 2. Crie ambiente virtual
 
